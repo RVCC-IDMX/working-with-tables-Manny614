@@ -1,3 +1,32 @@
 body {
   background-color: aliceblue;
+  border: 2px solid red;
+}
+tbody{
+  background-color: aquamarine;
+  text-align: center;
+  border: 2px solid blue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+thead{
+  font-size: large;
+background-color: aqua;
+text-align: center;
+border: 2px solid purple;
+font-family: "Goudy Bookletter 1911", sans-serif;
+}
+h1{
+  text-align: center;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+td{
+  font-size: 10pt;
+  color: blueviolet;
+}
+th{
+  color:rebeccapurple;
+}
+caption{
+  text-align: center;
+  font-size: 30pt;
 }
