@@ -1,5 +1,5 @@
 body {
-  background-color: aliceblue;
+  background-color: black;
   border: 2px solid red;
 }
 tbody{
@@ -16,6 +16,7 @@ border: 2px solid purple;
 font-family: "Goudy Bookletter 1911", sans-serif;
 }
 h1{
+  color: azure;
   text-align: center;
   font-family: "Goudy Bookletter 1911", sans-serif;
 }
@@ -26,7 +27,8 @@ td{
 th{
   color:rebeccapurple;
 }
-caption{
+#caption{
+  color: azure;
   text-align: center;
-  font-size: 30pt;
+ 
 }
