@@ -1,14 +1,17 @@
 body {
+  max-width: 100%;
   background-color: black;
   border: 2px solid red;
 }
 tbody{
+  max-width: 100%;
   background-color: aquamarine;
   text-align: center;
   border: 2px solid blue;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 thead{
+  max-width: 100%;
   font-size: large;
 background-color: aqua;
 text-align: center;
@@ -21,10 +24,12 @@ h1{
   font-family: "Goudy Bookletter 1911", sans-serif;
 }
 td{
+  max-width: 100%;
   font-size: 10pt;
   color: blueviolet;
 }
 th{
+  max-width: 100%;
   color:rebeccapurple;
 }
 #caption{
