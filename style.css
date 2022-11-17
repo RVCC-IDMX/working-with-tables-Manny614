@@ -19,13 +19,14 @@ border: 2px solid purple;
 font-family: "Goudy Bookletter 1911", sans-serif;
 }
 h1{
+  max-width: 100%;
   color: azure;
   text-align: center;
   font-family: "Goudy Bookletter 1911", sans-serif;
 }
 td{
   max-width: 100%;
-  font-size: 10pt;
+ 
   color: blueviolet;
 }
 th{
@@ -33,7 +34,15 @@ th{
   color:rebeccapurple;
 }
 #caption{
+  max-width: 100%;
   color: azure;
   text-align: center;
  
+}
+tr{
+  max-width: 100%;
+}
+div{max-width: 100%;}
+table{
+  max-width: 100%;
 }
